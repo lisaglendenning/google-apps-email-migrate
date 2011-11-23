@@ -1,1 +1,6 @@
 Google Apps email migration python client library (migration.py), along with a sample front end script (mbox2gdata.py).
+
+To get started:
+
+> python mbox2gdata.py -h
+
