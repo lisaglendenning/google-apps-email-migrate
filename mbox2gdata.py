@@ -19,7 +19,7 @@
 
 r"""Sample script to upload mbox files to Google Apps.
 
-Requires http://www.cs.washington.edu/homes/lglenden/projects/gdata/migration.py
+Requires migration.py from http://github.com/lisaglendenning/google-apps-email-migrate
 
 History:
 
